@@ -1,4 +1,5 @@
-## Hi there 👋
+#ola sou Ruan oliveira
+desemvolvedor full stack com foco em back-end.
 
 <!--
 **ruanolvs/ruanolvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
