@@ -1,13 +1,12 @@
-# ola sou Ruan oliveira
+# hi, my name is Ruan oliveira
 ## 💻 Tecnologias & Ferramentas
 
-![Java](https://img.shields.io)
-![Spring](https://img.shields.io)
-![PostgreSQL](https://img.shields.io)
-
+![Java](https://img.shields.io/badge/-java-001117?style=for-the-badge&logo=openjdk&labelColor=001117)&nbsp;
+![MySQL](https://img.shields.io/badge/-Mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 <!-- Adicione outras tecnologias como AWS, Git, etc. -->
 
 ## about me
+### Software Engineering student at Anhanguera, focused on web development and continuous learning, with emphasis on back-end development.
 
 <!--
 **ruanolvs/ruanolvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
