@@ -1,5 +1,13 @@
 # ola sou Ruan oliveira
-## desemvolvedor full stack com foco em back-end.
+## 💻 Tecnologias & Ferramentas
+
+![Java](https://img.shields.io)
+![Spring](https://img.shields.io)
+![PostgreSQL](https://img.shields.io)
+
+<!-- Adicione outras tecnologias como AWS, Git, etc. -->
+
+## about me
 
 <!--
 **ruanolvs/ruanolvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
