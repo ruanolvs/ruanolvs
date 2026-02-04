@@ -20,6 +20,10 @@
 
 I enjoy building structured systems, working with business rules, APIs, and databases, and continuously improving my understanding of software fundamentals, clean code, and problem-solving.
 
+# How can I get in touch?
+## My email and LinkedIn profile are below:
+### email: ruanolv07@gmail.com
+### linkedin: https://www.linkedin.com/in/ruanoliveiras/
 <!--
 **ruanolvs/ruanolvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
