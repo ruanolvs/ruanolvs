@@ -16,9 +16,7 @@
 
 
 ## about me
-###  Software Engineering student at Anhanguera, focused on web development, with a strong interest in back-end engineering.
-
-I enjoy building structured systems, working with business rules, APIs, and databases, and continuously improving my understanding of software fundamentals, clean code, and problem-solving.
+###  Software Engineering student at Anhanguera, back-end oriented developer with experience in Java, REST APIs and relational databases, currently expanding skills toward full-stack web development.
 
 # How can I get in touch?
 ## My email and LinkedIn profile are below:
